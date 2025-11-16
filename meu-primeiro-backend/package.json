@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "superset": "^2.0.1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
